@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity graduate with a kee
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** Graduate in Cybersecurity.
-- 🔒 **Interests:** Network Security, Ethical Hacking, and Cyber Threat Intelligence.
-- 🎨 **Hobbies:** Exploring creative tools like Photoshop, learning new programming languages, and contributing to open-source projects.
+- 🎓 **Education:** Graduate of SUNY Polytechnic Institute, with a Bachelors degree in Cybersecurity.
+- 🔒 **Interests:** Network Security, 5G/6G, AI, and Cyber Threat Intelligence.
+- 🎨 **Hobbies:** Researching 5G network security trends, managing social media for community programs, and collaborating on technical experiments.
 
 ---
 
@@ -26,15 +26,13 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity graduate with a kee
 
 ## 🎨 Projects and Contributions
 Here are some highlights of my work:
-- 🌐 **Cybersecurity Projects:** Simulations, pen-testing scripts, and vulnerability assessments.
-- 📊 **Data Analysis:** Python scripts for data cleaning, visualization, and reporting.
+- 📊 **5G Network Data Analysis:** Used Open AI Cellular (OAIC) to experiment with and run a simulated 5G network.
+- 🌐 **Cybersecurity Projects:** Simulations and vulnerability assessments using a Homelab (Work In Progress.
 - 🛠️ **System Tools:** Automation scripts and tools for Linux environments.
 
 ---
 
 ## 📞 Let's Connect!
-- ✉ **Email:** [andrew.fox@example.com](mailto:andrew.fox@example.com)
-- 🌐 **Portfolio:** [andrewfox.dev](https://andrewfox.dev) *(Coming soon!)*
-- 🔗 **LinkedIn:** [Andrew Fox](https://www.linkedin.com/in/andrew-fox/)
+- 🔗 **LinkedIn:** [Andrew Fox](https://www.linkedin.com/in/andrew-fox-088425241/)
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out for collaborations or discussions. Happy coding! 🚀
+Thank you for visiting my profile! I will begin sharing repositories soon! Feel free to reach out for collaborations or discussions. 🚀
