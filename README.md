@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity graduate with a kee
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** Graduate of SUNY Polytechnic Institute, with a Bachelors degree in Cybersecurity.
+- 🎓 **Education:** Graduate of SUNY Polytechnic Institute, with a bachelor's degree in Cybersecurity.
 - 🔒 **Interests:** Network Security, 5G/6G, AI, and Cyber Threat Intelligence.
 - 🎨 **Hobbies:** Researching 5G network security trends, managing social media for community programs, and collaborating on technical experiments.
 
