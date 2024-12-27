@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity graduate with a kee
 
 ## 🎨 Projects and Contributions
 Here are some highlights of my work:
+- **Job Posting Scams:**: [Scams on LinkedIn are becoming more popular.]([https://www.linkedin.com/in/andrew-fox-088425241](https://github.com/casperfox/JobPostingScams)/)
 - 📊 **5G Network Data Analysis:** Used Open AI Cellular (OAIC) to experiment with and run a simulated 5G network.
 - 🌐 **Cybersecurity Projects:** Simulations and vulnerability assessments using a Homelab (Work In Progress.
 - 🛠️ **System Tools:** Automation scripts and tools for Linux environments.
